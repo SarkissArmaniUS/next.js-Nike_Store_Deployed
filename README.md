@@ -1,5 +1,7 @@
 # React + Vite
 
+DEPLOYED ON VERCEL https://nike-app-git-main-armans-projects-c9523aa4.vercel.app/
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:

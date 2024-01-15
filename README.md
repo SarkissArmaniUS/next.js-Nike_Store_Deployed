@@ -30,3 +30,10 @@ This repository hosts a dynamic Nike website built using Next.js, a React framew
 
 Feel free to explore the codebase and enhance the project further. Contributions and feedback are welcome!
 
+---
+
+![screenshot_Nike_Store_1](https://github.com/SarkissArmaniUS/next.js-Nike_Store_Deployed/assets/97789627/dc9f0072-50a1-4f9f-89f6-320d21fb8430)
+
+---
+
+![screenshot_Nike_Store_2](https://github.com/SarkissArmaniUS/next.js-Nike_Store_Deployed/assets/97789627/3b896180-c42a-41f4-84f5-8ae782508149)
